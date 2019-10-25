@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-axios-perf",
+  "version": "0.0.1",
+  "description": "Nuxt module to log axios performance timings on SSR",
+  "main": "index.js",
+  "repository": "git@github.com:prashantpalikhe/nuxt-axios-perf.git",
+  "author": "Prashant Palikhe <prashpal09@gmail.com>",
+  "license": "MIT"
+}
